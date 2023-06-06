@@ -15,7 +15,7 @@ class CalculatorControllerTest {
         int result = calc.add(a, b);
 
         //Assert
-        assertEquals(5, result);
+        assertEquals(11, result);
     }
 
     @Test
